@@ -10,9 +10,11 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
+👨‍💻 I'm a front end developer and I love it!!
+<br>
 🌱 I’m currently learning: Front-End Development.
 <br>
-🎯 I’m currently focusing on: Problem-Solving, Clean Code and Performance
+🎯 I’m currently focusing on: Problem-Solving, Clean Code and Performance.
 <br>
 🤔 I’m currently open for: A new job opportunity!!
 
