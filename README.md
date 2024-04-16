@@ -10,7 +10,7 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-👨‍💻 I'm a front end developer and I love it!!
+👨‍💻 I'm a full stack developer and I love it!!
 <br>
 🌱 I’m currently learning: Front-End Development.
 <br>
