@@ -12,8 +12,6 @@
 <br>
 👨‍💻 I'm a full stack developer and I love it!!
 <br>
-🌱 I’m currently learning: Front-End Development.
-<br>
 🎯 I’m currently focusing on: Problem-Solving, Clean Code and Performance.
 <br>
 🤔 I’m currently open for: A new job opportunity!!
